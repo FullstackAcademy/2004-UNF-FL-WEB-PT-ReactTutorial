@@ -1,0 +1,30 @@
+body {
+  background-color: lightgreen;
+}
+
+.header {
+  background-color: lemonchiffon;
+}
+
+.main-links {
+  display: flex;
+  justify-content: space-between;
+  height: 100%;
+}
+
+.main-links .side-bar{
+  width: 100px;
+  background-color: grey;
+  padding: 10px;
+  margin-right: 10px;
+}
+
+.main-links .side-bar .side-bar-link {
+  margin: 10px 0 0 0;
+}
+
+.main-links .content{
+  width: 100%;
+  background-color: lightcoral;
+  padding: 10px;
+}

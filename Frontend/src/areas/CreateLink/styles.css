@@ -1,0 +1,26 @@
+.create-link {
+  display: flex;
+  justify-content: center;
+  margin-top: 20px;
+  width: 100%;
+}
+
+.create-link .create-link-content {
+  background-color: linen;
+  width: 400px;
+  height: 500px;
+  padding-top: 10px;
+  text-align: center;
+}
+
+
+.create-link .create-link-content div h2 {
+  width: 100%;
+  display: block;
+}
+
+.create-link .create-link-form {
+  width: 100%;
+  display: block;
+
+}
